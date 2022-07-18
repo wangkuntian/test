@@ -3,7 +3,7 @@
 //
 #include <iostream>
 #include <unistd.h>
-#include "../SimpleIni.h"
+#include "SimpleIni.h"
 
 using namespace std;
 
