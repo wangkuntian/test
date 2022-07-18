@@ -1,0 +1,5 @@
+/Users/king/Documents/Projects/C/Test/tree/build/CMakeFiles/edit_cache.dir
+/Users/king/Documents/Projects/C/Test/tree/build/CMakeFiles/rebuild_cache.dir
+/Users/king/Documents/Projects/C/Test/tree/build/src/CMakeFiles/exam.dir
+/Users/king/Documents/Projects/C/Test/tree/build/src/CMakeFiles/edit_cache.dir
+/Users/king/Documents/Projects/C/Test/tree/build/src/CMakeFiles/rebuild_cache.dir

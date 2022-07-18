@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f98776b-48cb-45f0-8e4c-c143168178ef" name="UOS">
+        <fileTransfer rootFolder="/home/king/Documents/Projects/C" accessType="SFTP" host="10.12.17.51" port="22" sshConfigId="c5859c2e-0e94-4818-bcc0-62e60f7882e0" sshConfig="king@10.12.17.51:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
