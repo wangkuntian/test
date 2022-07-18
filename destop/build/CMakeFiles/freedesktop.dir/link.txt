@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/freedesktop.dir/desktop.cpp.o  -o freedesktop -lsimpleini 

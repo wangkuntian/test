@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/king/Documents/Projects/C/exam/dpkg/dpkg.cpp
+iostream
+-
+cstring
+-
+sys/stat.h
+/home/king/Documents/Projects/C/exam/dpkg/sys/stat.h
+unistd.h
+/home/king/Documents/Projects/C/exam/dpkg/unistd.h
+

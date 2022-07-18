@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/king/Documents/Projects/C/exam/destop/desktop.cpp
+iostream
+-
+unistd.h
+-
+../SimpleIni.h
+/home/king/Documents/Projects/C/exam/SimpleIni.h
+

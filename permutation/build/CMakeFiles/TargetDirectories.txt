@@ -1,0 +1,5 @@
+/home/king/Documents/Projects/C/exam/permutation/build/CMakeFiles/rebuild_cache.dir
+/home/king/Documents/Projects/C/exam/permutation/build/CMakeFiles/edit_cache.dir
+/home/king/Documents/Projects/C/exam/permutation/build/src/CMakeFiles/rebuild_cache.dir
+/home/king/Documents/Projects/C/exam/permutation/build/src/CMakeFiles/exam.dir
+/home/king/Documents/Projects/C/exam/permutation/build/src/CMakeFiles/edit_cache.dir

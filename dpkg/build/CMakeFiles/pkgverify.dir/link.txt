@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pkgverify.dir/dpkg.cpp.o  -o pkgverify 

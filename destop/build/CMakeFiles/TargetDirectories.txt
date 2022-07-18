@@ -1,0 +1,3 @@
+/home/king/Documents/Projects/C/exam/destop/build/CMakeFiles/rebuild_cache.dir
+/home/king/Documents/Projects/C/exam/destop/build/CMakeFiles/freedesktop.dir
+/home/king/Documents/Projects/C/exam/destop/build/CMakeFiles/edit_cache.dir
